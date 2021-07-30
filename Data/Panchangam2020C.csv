@@ -1,0 +1,367 @@
+,Date,Vaar,Sunrise,SunSet,Moonrise,Masa,Paksha,Tithi,Nakshatra,Yoga,Sun,Moon,SuryaNakshatra,TamilYoga,AnandadiYoga,Rahukala_Start,Rahukala_end,Yamaganda_Start,Yamaganda_end,Gulikai_Start,Gulikai_end
+0,43831,Wed,24305,65291,40651,Pausha,Shukla,Shashthi,P.Bhadrapada,Vyatipata,Dhanus,Mina,P.shadha,Amrita,Padma,44798,49921,29428,34551,39675,44798
+1,43832,Thu,24328,65325,42877,Pausha,Shukla,Saptami,U.Bhadrapada,Variyan,Dhanus,Mina,P.shadha,Siddha,Chatra,49951,55076,24328,29453,34577,39702
+2,43833,Fri,24351,65358,45066,Pausha,Shukla,Ashtami,U.Bhadrapada,Parigha,Dhanus,Mina,P.shadha,Siddha,Dhawaja,39729,44855,55106,60232,29477,34603
+3,43834,Sat,24373,65392,47280,Pausha,Shukla,Navami,Revati,Shiva,Dhanus,Mesha,P.shadha,Marana,Dhaatru,34628,39755,50010,55137,24373,29500
+4,43835,Sun,24394,65426,49586,Pausha,Shukla,Dashami,Ashvini,Siddha,Dhanus,Mesha,P.shadha,Siddha,Ananda,60297,65426,44910,50039,55168,60297
+5,43836,Mon,24414,65459,52048,Pausha,Shukla,Ekadashi,Bharani,Sadhya,Dhanus,Vrishabha,P.shadha,Siddha,Chara,29545,34675,39806,44937,50067,55198
+6,43837,Tue,24433,65493,54732,Pausha,Shukla,Dvadashi,Krittika,Shubha,Dhanus,Vrishabha,P.shadha,Siddha,Gadha,55228,60360,34698,39831,44963,50095
+7,43838,Wed,24452,65526,57688,Pausha,Shukla,Trayodashi,Rohini,Shukla,Dhanus,Vrishabha,P.shadha,Siddha,Subha,44989,50123,29586,34720,39855,44989
+8,43839,Thu,24469,65560,60934,Pausha,Shukla,Chaturdashi,Mrigashirsha,Brahma,Dhanus,Mithuna,P.shadha,Marana,Mrutyu,50151,55287,24469,29605,34742,39878
+9,43840,Fri,24485,65593,64436,Pausha,Shukla,Purnima,Aardra,Aindra,Dhanus,Mithuna,P.shadha,Siddha,Padma,39901,45039,55316,60454,29624,34762
+10,43841,Sat,24501,65626,68102,Pausha,Krishna,Prathama,Punarvasu,Vaidhriti,Dhanus,Karka,P.shadha,Siddha,Chatra,34782,39923,50204,55345,24501,29642
+11,43842,Sun,24515,65659,71812,Pausha,Krishna,Dvitiiya,Pushya,Vishkambha,Dhanus,Karka,U.shada,Siddha,Sreevatsa,60516,65659,45087,50230,55373,60516
+12,43843,Mon,24529,65692,75462,Pausha,Krishna,Tritiiya,Aslesha,Priti,Dhanus,Simha,U.shada,Siddha,Sowmya,29674,34820,39965,45110,50256,55401
+13,43844,Tue,24541,65724,78995,Pausha,Krishna,Chaturthi,Magha,Saubhagya,Dhanus,Simha,U.shada,Siddha,Kaldanda,55428,60576,34837,39985,45133,50281
+14,43845,Wed,24553,65756,82409,Pausha,Krishna,Panchami,U.Phalguni,Shobhana,Makara,Kanya,U.shada,Amrita,Vardaman,45155,50305,29703,34854,40004,45155
+15,43846,Thu,24563,65788,85738,Pausha,Krishna,Shashthi,Hasta,Atiganda,Makara,Kanya,U.shada,Siddha,Rakshasa,50329,55482,24563,29717,34870,40023
+16,43847,Fri,24573,65820,0,Pausha,Krishna,Saptami,Chitra,Sukarman,Makara,Tula,U.shada,Siddha,Musala,40041,45197,55508,60664,29729,34885
+17,43848,Sat,24581,65852,2628,Pausha,Krishna,Navami,Svaati,Dhriti,Makara,Tula,U.shada,Amrita,Siddha,34899,40058,50375,55534,24581,29740
+18,43849,Sun,24589,65883,5928,Pausha,Krishna,Dashami,Vishaakha,Shuula,Makara,Vrishchika,U.shada,Marana,Utpatha,60721,65883,45236,50397,55559,60721
+19,43850,Mon,24595,65913,9265,Pausha,Krishna,Ekadashi,Anuraadha,Ganda,Makara,Vrishchika,U.shada,Siddha,Manasa,29760,34925,40089,45254,50419,55584
+20,43851,Tue,24600,65944,12640,Pausha,Krishna,Dvadashi,Jyeshtha,Dhruva,Makara,Dhanus,U.shada,Siddha,Mudgara,55608,60776,34936,40104,45272,50440
+21,43852,Wed,24605,65973,16019,Pausha,Krishna,Trayodashi,Mula,Vyaghata,Makara,Dhanus,U.shada,Marana,Dhawaja,45289,50460,29776,34947,40118,45289
+22,43853,Thu,24608,66003,19338,Pausha,Krishna,Chaturdashi,P.shadha,Harshana,Makara,Dhanus,U.shada,Siddha,Dhaatru,50480,55654,24608,29782,34957,40131
+23,43854,Fri,24610,66032,22522,Pausha,Krishna,Amavasya,U.shada,Vajra,Makara,Makara,U.shada,Siddha,Ananda,40143,45321,55676,60854,29788,34965
+24,43855,Sat,24611,66060,25515,Magha,Shukla,Prathama,Shravana,Siddhi,Makara,Makara,Shravana,Siddha,Sthira,34973,40154,50517,55698,24611,29792
+25,43856,Sun,24611,66088,28290,Magha,Shukla,Dvitiiya,Dhanishta,Vyatipata,Makara,Kumbha,Shravana,Marana,Mathanga,60904,66088,45350,50534,55719,60904
+26,43857,Mon,24610,66116,30857,Magha,Shukla,Tritiiya,Shatabhisha,Variyan,Makara,Kumbha,Shravana,Siddha,Amrutha,29798,34986,40174,45363,50551,55739
+27,43858,Tue,24607,66143,33249,Magha,Shukla,Tritiiya,Shatabhisha,Parigha,Makara,Kumbha,Shravana,Marana,Mrutyu,55759,60951,34991,40183,45375,50567
+28,43859,Wed,24604,66169,35515,Magha,Shukla,Chaturthi,P.Bhadrapada,Shiva,Makara,Mina,Shravana,Amrita,Padma,45386,50582,29799,34995,40191,45386
+29,43860,Thu,24599,66195,37708,Magha,Shukla,Panchami,U.Bhadrapada,Siddha,Makara,Mina,Shravana,Siddha,Chatra,50597,55796,24599,29799,34998,40198
+30,43861,Fri,24594,66220,39889,Magha,Shukla,Shashthi,Revati,Sadhya,Makara,Mesha,Shravana,Amrita,Sreevatsa,40204,45407,55814,61017,29797,35000
+31,43862,Sat,24587,66245,42118,Magha,Shukla,Saptami,Ashvini,Shubha,Makara,Mesha,Shravana,Siddha,Sowmya,35002,40209,50623,55830,24587,29794
+32,43863,Sun,24579,66269,44459,Magha,Shukla,Ashtami,Bharani,Shukla,Makara,Mesha,Shravana,Marana,Kaldanda,61058,66269,45424,50635,55846,61058
+33,43864,Mon,24571,66292,46979,Magha,Shukla,Navami,Krittika,Brahma,Makara,Vrishabha,Shravana,Marana,Sthira,29786,35001,40216,45431,50647,55862
+34,43865,Tue,24561,66315,49738,Magha,Shukla,Dashami,Rohini,Aindra,Makara,Vrishabha,Shravana,Amrita,Mathanga,55877,61096,34999,40219,45438,50657
+35,43866,Wed,24550,66337,52783,Magha,Shukla,Ekadashi,Mrigashirsha,Vaidhriti,Makara,Mithuna,Shravana,Siddha,Amrutha,45444,50667,29773,34997,40220,45444
+36,43867,Thu,24538,66359,56122,Magha,Shukla,Dvadashi,Aardra,Vishkambha,Makara,Mithuna,Shravana,Marana,Kala,50676,55904,24538,29765,34993,40221
+37,43868,Fri,24525,66380,59712,Magha,Shukla,Trayodashi,Punarvasu,Priti,Makara,Karka,Dhanishta,Siddha,Lamba,40220,45452,55916,61148,29757,34989
+38,43869,Sat,24511,66400,63452,Magha,Shukla,Chaturdashi,Pushya,Aayushman,Makara,Karka,Dhanishta,Siddha,Mitra,34983,40219,50692,55928,24511,29747
+39,43870,Sun,24496,66420,67224,Magha,Shukla,Purnima,Aslesha,Saubhagya,Makara,Simha,Dhanishta,Siddha,Vajra,61180,66420,45458,50698,55939,61180
+40,43871,Mon,24480,66439,70931,Magha,Krishna,Prathama,Magha,Shobhana,Makara,Simha,Dhanishta,Marana,Dwanksha,29725,34970,40215,45460,50704,55949
+41,43872,Tue,24463,66458,74529,Magha,Krishna,Tritiiya,P.Phalguni,Atiganda,Makara,Kanya,Dhanishta,Siddha,Dhumra,55959,61208,34962,40211,45460,50710
+42,43873,Wed,24445,66476,78021,Magha,Krishna,Chaturthi,U.Phalguni,Dhriti,Makara,Kanya,Dhanishta,Amrita,Vardaman,45460,50714,29699,34953,40207,45460
+43,43874,Thu,24426,66493,81440,Magha,Krishna,Panchami,Hasta,Shuula,Kumbha,Tula,Dhanishta,Siddha,Rakshasa,50718,55976,24426,29685,34943,40201
+44,43875,Fri,24407,66510,84824,Magha,Krishna,Shashthi,Chitra,Ganda,Kumbha,Tula,Dhanishta,Siddha,Musala,40196,45458,55984,61247,29670,34933
+45,43876,Sat,24386,66526,0,Magha,Krishna,Saptami,Vishaakha,Vriddhi,Kumbha,Vrishchika,Dhanishta,Siddha,Subha,34921,40189,50724,55991,24386,29654
+46,43877,Sun,24365,66542,1805,Magha,Krishna,Ashtami,Anuraadha,Dhruva,Kumbha,Vrishchika,Dhanishta,Marana,Mrutyu,61270,66542,45453,50726,55998,61270
+47,43878,Mon,24343,66557,5192,Magha,Krishna,Navami,Jyeshtha,Vyaghata,Kumbha,Vrishchika,Dhanishta,Siddha,Padma,29620,34896,40173,45450,50727,56003
+48,43879,Tue,24320,66572,8563,Magha,Krishna,Dashami,Mula,Harshana,Kumbha,Dhanus,Dhanishta,Amrita,Chatra,56009,61290,34883,40164,45446,50727
+49,43880,Wed,24296,66586,11872,Magha,Krishna,Ekadashi,P.shadha,Vajra,Kumbha,Dhanus,Dhanishta,Amrita,Sreevatsa,45441,50727,29582,34868,40155,45441
+50,43881,Thu,24271,66599,15058,Magha,Krishna,Dvadashi,P.shadha,Siddhi,Kumbha,Makara,Shatabhisha,Siddha,Dhaatru,50726,56017,24271,29562,34853,40144
+51,43882,Fri,24246,66612,18071,Magha,Krishna,Trayodashi,U.shada,Vyatipata,Kumbha,Makara,Shatabhisha,Siddha,Kaldanda,40133,45429,56021,61316,29542,34837
+52,43883,Sat,24220,66624,20882,Magha,Krishna,Chaturdashi,Shravana,Variyan,Kumbha,Makara,Shatabhisha,Siddha,Sthira,34821,40122,50723,56023,24220,29520
+53,43884,Sun,24193,66636,23494,Magha,Krishna,Amavasya,Dhanishta,Parigha,Kumbha,Kumbha,Shatabhisha,Marana,Mathanga,61331,66636,45415,50720,56025,61331
+54,43885,Mon,24165,66648,25929,Phalguna,Shukla,Prathama,Shatabhisha,Shiva,Kumbha,Kumbha,Shatabhisha,Siddha,Amrutha,29476,34786,40096,45407,50717,56027
+55,43886,Tue,24137,66659,28228,Phalguna,Shukla,Dvitiiya,P.Bhadrapada,Siddha,Kumbha,Mina,Shatabhisha,Marana,Kala,56028,61343,34767,40083,45398,50713
+56,43887,Wed,24108,66669,30439,Phalguna,Shukla,Tritiiya,U.Bhadrapada,Sadhya,Kumbha,Mina,Shatabhisha,Siddha,Lamba,45388,50709,29428,34748,40068,45388
+57,43888,Thu,24078,66679,32614,Phalguna,Shukla,Chaturthi,Revati,Shubha,Kumbha,Mina,Shatabhisha,Siddha,Mitra,50704,56029,24078,29403,34729,40054
+58,43889,Fri,24048,66688,34807,Phalguna,Shukla,Chaturthi,Ashvini,Shukla,Kumbha,Mesha,Shatabhisha,Amrita,Vajra,40038,45368,56028,61358,29378,34708
+59,43890,Sat,24017,66697,37076,Phalguna,Shukla,Panchami,Bharani,Brahma,Kumbha,Mesha,Shatabhisha,Siddha,Dwanksha,34687,40022,50692,56027,24017,29352
+60,43891,Sun,23986,66705,39479,Phalguna,Shukla,Shashthi,Bharani,Aindra,Kumbha,Vrishabha,Shatabhisha,Marana,Kaldanda,61366,66705,45346,50686,56026,61366
+61,43892,Mon,23954,66713,42074,Phalguna,Shukla,Saptami,Krittika,Vaidhriti,Kumbha,Vrishabha,Shatabhisha,Marana,Sthira,29299,34644,39989,45334,50679,56024
+62,43893,Tue,23921,66721,44913,Phalguna,Shukla,Ashtami,Rohini,Vishkambha,Kumbha,Mithuna,Shatabhisha,Amrita,Mathanga,56021,61371,34621,39971,45321,50671
+63,43894,Wed,23888,66728,48025,Phalguna,Shukla,Navami,Mrigashirsha,Priti,Kumbha,Mithuna,Shatabhisha,Siddha,Amrutha,45308,50663,29243,34598,39953,45308
+64,43895,Thu,23854,66735,51403,Phalguna,Shukla,Dashami,Aardra,Aayushman,Kumbha,Mithuna,P.Bhadrapada,Marana,Kala,50655,56015,23854,29214,34574,39934
+65,43896,Fri,23820,66741,54994,Phalguna,Shukla,Ekadashi,Punarvasu,Saubhagya,Kumbha,Karka,P.Bhadrapada,Siddha,Lamba,39915,45281,56011,61376,29185,34550
+66,43897,Sat,23785,66747,58708,Phalguna,Shukla,Dvadashi,Pushya,Atiganda,Kumbha,Karka,P.Bhadrapada,Siddha,Mitra,34526,39896,50636,56007,23785,29155
+67,43898,Sun,23750,66753,62448,Phalguna,Shukla,Chaturdashi,Aslesha,Sukarman,Kumbha,Simha,P.Bhadrapada,Siddha,Vajra,61378,66753,45251,50627,56002,61378
+68,43899,Mon,23715,66758,66146,Phalguna,Shukla,Purnima,P.Phalguni,Dhriti,Kumbha,Simha,P.Bhadrapada,Siddha,Dhawaja,29095,34475,39856,45236,50617,55997
+69,43900,Tue,23679,66763,69776,Phalguna,Krishna,Prathama,U.Phalguni,Shuula,Kumbha,Kanya,P.Bhadrapada,Amrita,Dhaatru,55992,61378,34450,39835,45221,50606
+70,43901,Wed,23642,66768,73347,Phalguna,Krishna,Dvitiiya,Hasta,Ganda,Kumbha,Kanya,P.Bhadrapada,Marana,Ananda,45205,50596,29033,34424,39814,45205
+71,43902,Thu,23606,66772,76884,Phalguna,Krishna,Tritiiya,Chitra,Dhruva,Kumbha,Tula,P.Bhadrapada,Siddha,Chara,50585,55981,23606,29002,34397,39793
+72,43903,Fri,23569,66777,80409,Phalguna,Krishna,Chaturthi,Svaati,Vyaghata,Kumbha,Tula,P.Bhadrapada,Siddha,Gadha,39772,45173,55975,61376,28970,34371
+73,43904,Sat,23532,66780,83926,Phalguna,Krishna,Shashthi,Vishaakha,Harshana,Mina,Vrishchika,P.Bhadrapada,Siddha,Subha,34344,39750,50562,55968,23532,28938
+74,43905,Sun,23494,66784,0,Phalguna,Krishna,Saptami,Anuraadha,Vajra,Mina,Vrishchika,P.Bhadrapada,Marana,Mrutyu,61373,66784,45139,50551,55962,61373
+75,43906,Mon,23457,66788,1011,Phalguna,Krishna,Ashtami,Jyeshtha,Siddhi,Mina,Dhanus,P.Bhadrapada,Siddha,Padma,28873,34290,39706,45122,50539,55955
+76,43907,Tue,23419,66791,4414,Phalguna,Krishna,Navami,Mula,Vyatipata,Mina,Dhanus,P.Bhadrapada,Amrita,Chatra,55948,61370,34262,39684,45105,50527
+77,43908,Wed,23381,66795,7676,Phalguna,Krishna,Dashami,P.shadha,Variyan,Mina,Makara,U.Bhadrapada,Amrita,Sreevatsa,45088,50514,28808,34234,39661,45088
+78,43909,Thu,23343,66798,10749,Phalguna,Krishna,Ekadashi,U.shada,Parigha,Mina,Makara,U.Bhadrapada,Siddha,Sowmya,50502,55934,23343,28775,34206,39638
+79,43910,Fri,23304,66801,13607,Phalguna,Krishna,Dvadashi,Shravana,Shiva,Mina,Makara,U.Bhadrapada,Marana,Dhumra,39616,45053,55927,61364,28741,34179
+80,43911,Sat,23266,66804,16254,Phalguna,Krishna,Dvadashi,Dhanishta,Siddha,Mina,Kumbha,U.Bhadrapada,Siddha,Vardaman,34150,39593,50477,55919,23266,28708
+81,43912,Sun,23228,66806,18716,Phalguna,Krishna,Trayodashi,Shatabhisha,Sadhya,Mina,Kumbha,U.Bhadrapada,Siddha,Rakshasa,61359,66806,45017,50464,55912,61359
+82,43913,Mon,23189,66809,21035,Phalguna,Krishna,Chaturdashi,P.Bhadrapada,Shubha,Mina,Mina,U.Bhadrapada,Marana,Musala,28642,34094,39547,44999,50452,55904
+83,43914,Tue,23150,66812,23256,Phalguna,Krishna,Amavasya,U.Bhadrapada,Shukla,Mina,Mina,U.Bhadrapada,Amrita,Siddha,55896,61354,34066,39523,44981,50439
+84,43915,Wed,23112,66814,25431,Chaitra,Shukla,Prathama,Revati,Brahma,Mina,Mina,U.Bhadrapada,Marana,Utpatha,44963,50426,28575,34037,39500,44963
+85,43916,Thu,23073,66817,27610,Chaitra,Shukla,Dvitiiya,Revati,Aindra,Mina,Mesha,U.Bhadrapada,Siddha,Mitra,50413,55881,23073,28541,34009,39477
+86,43917,Fri,23034,66819,29845,Chaitra,Shukla,Tritiiya,Ashvini,Vaidhriti,Mina,Mesha,U.Bhadrapada,Amrita,Vajra,39454,44927,55873,61346,28508,33981
+87,43918,Sat,22996,66822,32190,Chaitra,Shukla,Chaturthi,Bharani,Vishkambha,Mina,Vrishabha,U.Bhadrapada,Siddha,Dwanksha,33952,39431,50387,55865,22996,28474
+88,43919,Sun,22957,66824,34695,Chaitra,Shukla,Panchami,Krittika,Priti,Mina,Vrishabha,U.Bhadrapada,Siddha,Dhumra,61341,66824,44891,50374,55858,61341
+89,43920,Mon,22919,66827,37406,Chaitra,Shukla,Shashthi,Rohini,Aayushman,Mina,Vrishabha,U.Bhadrapada,Amrita,Vardaman,28407,33896,39384,44873,50361,55850
+90,43921,Tue,22880,66830,40353,Chaitra,Shukla,Saptami,Mrigashirsha,Saubhagya,Mina,Mithuna,U.Bhadrapada,Siddha,Rakshasa,55842,61336,33868,39361,44855,50349
+91,43922,Wed,22842,66832,43540,Chaitra,Shukla,Ashtami,Aardra,Shobhana,Mina,Mithuna,Revati,Siddha,Musala,44837,50336,28341,33840,39338,44837
+92,43923,Thu,22804,66835,46936,Chaitra,Shukla,Navami,Punarvasu,Atiganda,Mina,Karka,Revati,Amrita,Siddha,50323,55827,22804,28308,33812,39316
+93,43924,Fri,22766,66838,50479,Chaitra,Shukla,Dashami,Pushya,Sukarman,Mina,Karka,Revati,Marana,Utpatha,39293,44802,55820,61329,28275,33784
+94,43925,Sat,22728,66840,54094,Chaitra,Shukla,Ekadashi,Aslesha,Dhriti,Mina,Simha,Revati,Marana,Manasa,33756,39270,50298,55812,22728,28242
+95,43926,Sun,22691,66843,57720,Chaitra,Shukla,Dvadashi,Magha,Shuula,Mina,Simha,Revati,Marana,Mudgara,61324,66843,44767,50286,55805,61324
+96,43927,Mon,22654,66846,61328,Chaitra,Shukla,Trayodashi,P.Phalguni,Vriddhi,Mina,Kanya,Revati,Siddha,Dhawaja,28178,33702,39226,44750,50274,55798
+97,43928,Tue,22617,66850,64918,Chaitra,Shukla,Chaturdashi,U.Phalguni,Dhruva,Mina,Kanya,Revati,Amrita,Dhaatru,55791,61320,33675,39204,44733,50262
+98,43929,Wed,22580,66853,68512,Chaitra,Shukla,Purnima,Chitra,Vyaghata,Mina,Tula,Revati,Siddha,Kaldanda,44716,50250,28114,33648,39182,44716
+99,43930,Thu,22543,66856,72131,Chaitra,Krishna,Dvitiiya,Svaati,Harshana,Mina,Tula,Revati,Amrita,Sthira,50239,55778,22543,28082,33622,39161
+100,43931,Fri,22507,66860,75778,Chaitra,Krishna,Tritiiya,Vishaakha,Siddhi,Mina,Vrishchika,Revati,Siddha,Mathanga,39140,44684,55772,61316,28051,33595
+101,43932,Sat,22471,66864,79425,Chaitra,Krishna,Chaturthi,Anuraadha,Vyatipata,Mina,Vrishchika,Revati,Siddha,Amrutha,33570,39119,50217,55766,22471,28020
+102,43933,Sun,22436,66868,83009,Chaitra,Krishna,Panchami,Jyeshtha,Variyan,Mina,Dhanus,Revati,Marana,Kala,61314,66868,44652,50206,55760,61314
+103,43934,Mon,22401,66873,0,Chaitra,Krishna,Shashthi,Mula,Parigha,Mesha,Dhanus,Revati,Siddha,Lamba,27960,33519,39078,44637,50196,55755
+104,43935,Tue,22367,66877,52,Chaitra,Krishna,Saptami,P.shadha,Shiva,Mesha,Dhanus,Ashvini,Siddha,Mitra,55750,61314,33494,39058,44622,50186
+105,43936,Wed,22332,66882,3283,Chaitra,Krishna,Ashtami,U.shada,Siddha,Mesha,Makara,Ashvini,Amrita,Vajra,44607,50176,27901,33470,39039,44607
+106,43937,Thu,22299,66888,6266,Chaitra,Krishna,Navami,Shravana,Sadhya,Mesha,Makara,Ashvini,Siddha,Dhawaja,50167,55740,22299,27872,33446,39020
+107,43938,Fri,22266,66893,9003,Chaitra,Krishna,Dashami,Dhanishta,Shubha,Mesha,Kumbha,Ashvini,Siddha,Dhaatru,39001,44579,55736,61315,27844,33423
+108,43939,Sat,22233,66899,11523,Chaitra,Krishna,Ekadashi,Shatabhisha,Shukla,Mesha,Kumbha,Ashvini,Amrita,Ananda,33400,38983,50149,55733,22233,27816
+109,43940,Sun,22201,66905,13874,Chaitra,Krishna,Dvadashi,P.Bhadrapada,Brahma,Mesha,Kumbha,Ashvini,Siddha,Chara,61317,66905,44553,50141,55729,61317
+110,43941,Mon,22169,66912,16109,Chaitra,Krishna,Trayodashi,P.Bhadrapada,Aindra,Mesha,Mina,Ashvini,Marana,Musala,27762,33355,38948,44541,50133,55726
+111,43942,Tue,22138,66918,18282,Chaitra,Krishna,Chaturdashi,U.Bhadrapada,Vaidhriti,Mesha,Mina,Ashvini,Amrita,Siddha,55723,61321,33333,38931,44528,50126
+112,43943,Wed,22108,66926,20448,Chaitra,Krishna,Amavasya,Revati,Vishkambha,Mesha,Mesha,Ashvini,Marana,Utpatha,44517,50119,27710,33312,38915,44517
+113,43944,Thu,22078,66933,22661,Chaitra,Krishna,Amavasya,Ashvini,Priti,Mesha,Mesha,Ashvini,Amrita,Manasa,50112,55719,22078,27685,33292,38899
+114,43945,Fri,22049,66941,24972,Vaishakha,Shukla,Prathama,Bharani,Aayushman,Mesha,Mesha,Ashvini,Siddha,Mudgara,38883,44495,55718,61329,27660,33272
+115,43946,Sat,22020,66949,27432,Vaishakha,Shukla,Dvitiiya,Krittika,Saubhagya,Mesha,Vrishabha,Ashvini,Amrita,Dhawaja,33252,38869,50101,55717,22020,27636
+116,43947,Sun,21992,66957,30083,Vaishakha,Shukla,Tritiiya,Rohini,Shobhana,Mesha,Vrishabha,Ashvini,Siddha,Dhaatru,61337,66957,44475,50095,55716,61337
+117,43948,Mon,21965,66966,32952,Vaishakha,Shukla,Chaturthi,Mrigashirsha,Atiganda,Mesha,Mithuna,Ashvini,Amrita,Ananda,27590,33215,38840,44465,50091,55716
+118,43949,Tue,21938,66975,36043,Vaishakha,Shukla,Panchami,Aardra,Sukarman,Mesha,Mithuna,Bharani,Marana,Chara,55716,61345,33197,38827,44457,50086
+119,43950,Wed,21912,66984,39325,Vaishakha,Shukla,Shashthi,Punarvasu,Dhriti,Mesha,Karka,Bharani,Siddha,Gadha,44448,50082,27546,33180,38814,44448
+120,43951,Thu,21887,66994,42742,Vaishakha,Shukla,Saptami,Pushya,Shuula,Mesha,Karka,Bharani,Amrita,Subha,50079,55717,21887,27525,33164,38802
+121,43952,Fri,21862,67004,46225,Vaishakha,Shukla,Ashtami,Aslesha,Ganda,Mesha,Karka,Bharani,Marana,Mrutyu,38791,44433,55719,61362,27505,33148
+122,43953,Sat,21838,67015,49720,Vaishakha,Shukla,Navami,Magha,Vriddhi,Mesha,Simha,Bharani,Amrita,Padma,33132,38779,50074,55721,21838,27485
+123,43954,Sun,21815,67025,53201,Vaishakha,Shukla,Dashami,P.Phalguni,Dhruva,Mesha,Simha,Bharani,Siddha,Chatra,61374,67025,44420,50072,55723,61374
+124,43955,Mon,21793,67037,56677,Vaishakha,Shukla,Ekadashi,U.Phalguni,Vyaghata,Mesha,Kanya,Bharani,Siddha,Sreevatsa,27448,33104,38759,44415,50070,55726
+125,43956,Tue,21771,67048,60173,Vaishakha,Shukla,Trayodashi,Hasta,Vajra,Mesha,Kanya,Bharani,Siddha,Sowmya,55729,61388,33090,38750,44409,50069
+126,43957,Wed,21750,67060,63727,Vaishakha,Shukla,Chaturdashi,Chitra,Siddhi,Mesha,Tula,Bharani,Siddha,Kaldanda,44405,50068,27413,33077,38741,44405
+127,43958,Thu,21730,67072,67359,Vaishakha,Shukla,Purnima,Svaati,Vyatipata,Mesha,Tula,Bharani,Amrita,Sthira,50068,55736,21730,27397,33065,38733
+128,43959,Fri,21710,67084,71061,Vaishakha,Krishna,Prathama,Vishaakha,Variyan,Mesha,Vrishchika,Bharani,Siddha,Mathanga,38725,44397,55741,61412,27382,33054
+129,43960,Sat,21691,67097,74776,Vaishakha,Krishna,Dvitiiya,Anuraadha,Parigha,Mesha,Vrishchika,Bharani,Siddha,Amrutha,33043,38719,50070,55746,21691,27367
+130,43961,Sun,21674,67110,78409,Vaishakha,Krishna,Tritiiya,Mula,Shiva,Mesha,Dhanus,Bharani,Amrita,Siddha,61431,67110,44392,50071,55751,61431
+131,43962,Mon,21657,67124,81857,Vaishakha,Krishna,Chaturthi,P.shadha,Sadhya,Mesha,Dhanus,Bharani,Marana,Utpatha,27340,33023,38707,44390,50073,55757
+132,43963,Tue,21640,67137,85046,Vaishakha,Krishna,Shashthi,U.shada,Shubha,Mesha,Makara,Krittika,Marana,Manasa,55763,61450,33015,38702,44389,50076
+133,43964,Wed,21625,67152,0,Vaishakha,Krishna,Saptami,Shravana,Shukla,Mesha,Makara,Krittika,Siddha,Mudgara,44388,50079,27316,33007,38697,44388
+134,43965,Thu,21611,67166,1553,Vaishakha,Krishna,Saptami,Shravana,Brahma,Vrishabha,Kumbha,Krittika,Siddha,Dhawaja,50083,55777,21611,27305,32999,38694
+135,43966,Fri,21597,67181,4197,Vaishakha,Krishna,Ashtami,Dhanishta,Aindra,Vrishabha,Kumbha,Krittika,Siddha,Dhaatru,38691,44389,55785,61483,27295,32993
+136,43967,Sat,21584,67196,6629,Vaishakha,Krishna,Navami,Shatabhisha,Vaidhriti,Vrishabha,Kumbha,Krittika,Amrita,Ananda,32987,38689,50091,55793,21584,27286
+137,43968,Sun,21572,67211,8908,Vaishakha,Krishna,Dashami,P.Bhadrapada,Vishkambha,Vrishabha,Mina,Krittika,Siddha,Chara,61506,67211,44392,50097,55801,61506
+138,43969,Mon,21561,67227,11095,Vaishakha,Krishna,Ekadashi,U.Bhadrapada,Priti,Vrishabha,Mina,Krittika,Siddha,Gadha,27269,32978,38686,44394,50102,55810
+139,43970,Tue,21551,67243,13252,Vaishakha,Krishna,Dvadashi,Revati,Aayushman,Vrishabha,Mesha,Krittika,Siddha,Subha,55820,61531,32974,38685,44397,50108
+140,43971,Wed,21542,67259,15438,Vaishakha,Krishna,Trayodashi,Ashvini,Saubhagya,Vrishabha,Mesha,Krittika,Marana,Mrutyu,44400,50115,27256,32971,38686,44400
+141,43972,Thu,21533,67275,17711,Vaishakha,Krishna,Chaturdashi,Bharani,Saubhagya,Vrishabha,Mesha,Krittika,Siddha,Padma,50122,55840,21533,27251,32969,38686
+142,43973,Fri,21525,67292,20125,Vaishakha,Krishna,Amavasya,Krittika,Shobhana,Vrishabha,Vrishabha,Krittika,Siddha,Chatra,38688,44409,55850,61571,27246,32967
+143,43974,Sat,21519,67309,22730,Jyeshtha,Shukla,Prathama,Rohini,Atiganda,Vrishabha,Vrishabha,Krittika,Amrita,Sreevatsa,32966,38690,50137,55861,21519,27242
+144,43975,Sun,21513,67326,25557,Jyeshtha,Shukla,Dvitiiya,Mrigashirsha,Sukarman,Vrishabha,Mithuna,Krittika,Siddha,Sowmya,61599,67326,44419,50146,55872,61599
+145,43976,Mon,21507,67343,28614,Jyeshtha,Shukla,Tritiiya,Mrigashirsha,Shuula,Vrishabha,Mithuna,Rohini,Amrita,Ananda,27237,32966,38696,44425,50155,55884
+146,43977,Tue,21503,67360,31869,Jyeshtha,Shukla,Chaturthi,Aardra,Ganda,Vrishabha,Mithuna,Rohini,Marana,Chara,55896,61628,32967,38700,44432,50164
+147,43978,Wed,21500,67377,35260,Jyeshtha,Shukla,Panchami,Punarvasu,Vriddhi,Vrishabha,Karka,Rohini,Siddha,Gadha,44439,50173,27234,32969,38704,44439
+148,43979,Thu,21497,67395,38708,Jyeshtha,Shukla,Shashthi,Pushya,Dhruva,Vrishabha,Karka,Rohini,Amrita,Subha,50183,55920,21497,27234,32972,38709
+149,43980,Fri,21495,67412,42147,Jyeshtha,Shukla,Saptami,Aslesha,Vyaghata,Vrishabha,Simha,Rohini,Marana,Mrutyu,38714,44454,55933,61673,27235,32974
+150,43981,Sat,21494,67430,45546,Jyeshtha,Shukla,Ashtami,Magha,Harshana,Vrishabha,Simha,Rohini,Amrita,Padma,32978,38720,50204,55946,21494,27236
+151,43982,Sun,21494,67448,48908,Jyeshtha,Shukla,Navami,U.Phalguni,Vajra,Vrishabha,Kanya,Rohini,Amrita,Mitra,61703,67448,44471,50215,55959,61703
+152,43983,Mon,21494,67465,52267,Jyeshtha,Shukla,Dashami,Hasta,Siddhi,Vrishabha,Kanya,Rohini,Siddha,Vajra,27241,32987,38733,44480,50226,55972
+153,43984,Tue,21495,67483,55669,Jyeshtha,Shukla,Ekadashi,Chitra,Vyatipata,Vrishabha,Tula,Rohini,Siddha,Dwanksha,55986,61734,32992,38741,44489,50237
+154,43985,Wed,21497,67500,59157,Jyeshtha,Shukla,Dvadashi,Svaati,Variyan,Vrishabha,Tula,Rohini,Siddha,Dhumra,44499,50249,27248,32998,38748,44499
+155,43986,Thu,21500,67517,62754,Jyeshtha,Shukla,Trayodashi,Vishaakha,Shiva,Vrishabha,Vrishchika,Rohini,Siddha,Vardaman,50261,56013,21500,27252,33004,38757
+156,43987,Fri,21503,67535,66438,Jyeshtha,Shukla,Purnima,Anuraadha,Siddha,Vrishabha,Vrishchika,Rohini,Siddha,Rakshasa,38765,44519,56027,61781,27257,33011
+157,43988,Sat,21508,67552,70135,Jyeshtha,Krishna,Prathama,Jyeshtha,Sadhya,Vrishabha,Dhanus,Rohini,Siddha,Musala,33019,38774,50285,56041,21508,27263
+158,43989,Sun,21512,67569,73732,Jyeshtha,Krishna,Dvitiiya,Mula,Shubha,Vrishabha,Dhanus,Rohini,Amrita,Siddha,61812,67569,44541,50298,56055,61812
+159,43990,Mon,21518,67586,77119,Jyeshtha,Krishna,Tritiiya,P.shadha,Shukla,Vrishabha,Makara,Mrigashirsha,Marana,Utpatha,27277,33035,38794,44552,50311,56069
+160,43991,Tue,21524,67603,80227,Jyeshtha,Krishna,Chaturthi,U.shada,Brahma,Vrishabha,Makara,Mrigashirsha,Marana,Manasa,56083,61843,33044,38804,44564,50323
+161,43992,Wed,21531,67620,83047,Jyeshtha,Krishna,Panchami,Shravana,Aindra,Vrishabha,Makara,Mrigashirsha,Siddha,Chatra,44575,50337,27292,33053,38814,44575
+162,43993,Thu,21539,67636,85611,Jyeshtha,Krishna,Shashthi,Dhanishta,Vaidhriti,Vrishabha,Kumbha,Mrigashirsha,Siddha,Sreevatsa,50350,56112,21539,27301,33063,38825
+163,43994,Fri,21547,67652,0,Jyeshtha,Krishna,Saptami,Shatabhisha,Vishkambha,Vrishabha,Kumbha,Mrigashirsha,Siddha,Sowmya,38836,44600,56126,61889,27310,33073
+164,43995,Sat,21556,67668,1577,Jyeshtha,Krishna,Ashtami,P.Bhadrapada,Priti,Vrishabha,Mina,Mrigashirsha,Marana,Kaldanda,33084,38848,50376,56140,21556,27320
+165,43996,Sun,21565,67684,3811,Jyeshtha,Krishna,Navami,U.Bhadrapada,Aayushman,Vrishabha,Mina,Mrigashirsha,Amrita,Sthira,61919,67684,44625,50390,56154,61919
+166,43997,Mon,21575,67700,5978,Jyeshtha,Krishna,Dashami,Revati,Saubhagya,Mithuna,Mina,Mrigashirsha,Siddha,Mathanga,27341,33106,38872,44637,50403,56168
+167,43998,Tue,21586,67715,8143,Jyeshtha,Krishna,Ekadashi,Ashvini,Shobhana,Mithuna,Mesha,Mrigashirsha,Siddha,Amrutha,56182,61949,33118,38884,44650,50416
+168,43999,Wed,21597,67729,10369,Jyeshtha,Krishna,Ekadashi,Ashvini,Atiganda,Mithuna,Mesha,Mrigashirsha,Marana,Mrutyu,44663,50430,27363,33130,38897,44663
+169,44000,Thu,21608,67744,12719,Jyeshtha,Krishna,Dvadashi,Bharani,Sukarman,Mithuna,Vrishabha,Mrigashirsha,Siddha,Padma,50443,56210,21608,27375,33142,38909
+170,44001,Fri,21620,67758,15251,Jyeshtha,Krishna,Trayodashi,Krittika,Dhriti,Mithuna,Vrishabha,Mrigashirsha,Siddha,Chatra,38922,44689,56223,61991,27388,33155
+171,44002,Sat,21633,67771,18010,Jyeshtha,Krishna,Chaturdashi,Rohini,Shuula,Mithuna,Vrishabha,Mrigashirsha,Amrita,Sreevatsa,33168,38935,50469,56237,21633,27400
+172,44003,Sun,21646,67784,21019,Jyeshtha,Krishna,Amavasya,Mrigashirsha,Ganda,Mithuna,Mithuna,Mrigashirsha,Siddha,Sowmya,62017,67784,44715,50483,56250,62017
+173,44004,Mon,21659,67797,24262,Ashaadha,Shukla,Prathama,Aardra,Vriddhi,Mithuna,Mithuna,Aardra,Siddha,Kaldanda,27427,33194,38961,44728,50495,56263
+174,44005,Tue,21673,67809,27678,Ashaadha,Shukla,Dvitiiya,Punarvasu,Dhruva,Mithuna,Karka,Aardra,Siddha,Sthira,56275,62042,33207,38974,44741,50508
+175,44006,Wed,21687,67821,31175,Ashaadha,Shukla,Tritiiya,Pushya,Vyaghata,Mithuna,Karka,Aardra,Siddha,Mathanga,44754,50521,27454,33221,38987,44754
+176,44007,Thu,21702,67832,34667,Ashaadha,Shukla,Chaturthi,Aslesha,Harshana,Mithuna,Simha,Aardra,Siddha,Amrutha,50533,56299,21702,27468,33234,39000
+177,44008,Fri,21716,67842,38096,Ashaadha,Shukla,Panchami,Magha,Siddhi,Mithuna,Simha,Aardra,Marana,Kala,39014,44779,56311,62076,27482,33248
+178,44009,Sat,21731,67852,41451,Ashaadha,Shukla,Saptami,P.Phalguni,Vyatipata,Mithuna,Kanya,Aardra,Siddha,Lamba,33261,39027,50557,56322,21731,27496
+179,44010,Sun,21747,67861,44757,Ashaadha,Shukla,Ashtami,U.Phalguni,Variyan,Mithuna,Kanya,Aardra,Amrita,Mitra,62097,67861,44804,50568,56332,62097
+180,44011,Mon,21762,67869,48060,Ashaadha,Shukla,Navami,Hasta,Parigha,Mithuna,Tula,Aardra,Siddha,Vajra,27525,33289,39052,44816,50579,56342
+181,44012,Tue,21778,67877,51414,Ashaadha,Shukla,Dashami,Svaati,Shiva,Mithuna,Tula,Aardra,Siddha,Dhawaja,56352,62115,33303,39065,44827,50590
+182,44013,Wed,21793,67884,54860,Ashaadha,Shukla,Ekadashi,Vishaakha,Siddha,Mithuna,Vrishchika,Aardra,Siddha,Dhaatru,44839,50600,27555,33316,39077,44839
+183,44014,Thu,21809,67890,58410,Ashaadha,Shukla,Dvadashi,Anuraadha,Sadhya,Mithuna,Vrishchika,Aardra,Siddha,Ananda,50610,56370,21809,27570,33330,39090
+184,44015,Fri,21825,67896,62030,Ashaadha,Shukla,Trayodashi,Jyeshtha,Shukla,Mithuna,Vrishchika,Aardra,Marana,Chara,39102,44861,56378,62137,27584,33343
+185,44016,Sat,21842,67901,65633,Ashaadha,Shukla,Chaturdashi,Mula,Brahma,Mithuna,Dhanus,Aardra,Siddha,Gadha,33356,39114,50629,56386,21842,27599
+186,44017,Sun,21858,67905,69108,Ashaadha,Shukla,Purnima,P.shadha,Aindra,Mithuna,Dhanus,Aardra,Siddha,Subha,62149,67905,44881,50637,56393,62149
+187,44018,Mon,21874,67909,72358,Ashaadha,Krishna,Prathama,U.shada,Vaidhriti,Mithuna,Makara,Punarvasu,Marana,Mrutyu,27628,33383,39137,44891,50646,56400
+188,44019,Tue,21890,67911,75335,Ashaadha,Krishna,Dvitiiya,Shravana,Vishkambha,Mithuna,Makara,Punarvasu,Siddha,Lamba,56406,62159,33396,39148,44901,50653
+189,44020,Wed,21907,67913,78042,Ashaadha,Krishna,Tritiiya,Dhanishta,Priti,Mithuna,Kumbha,Punarvasu,Marana,Mitra,44910,50661,27658,33408,39159,44910
+190,44021,Thu,21923,67914,80519,Ashaadha,Krishna,Chaturthi,Shatabhisha,Aayushman,Mithuna,Kumbha,Punarvasu,Marana,Vajra,50667,56416,21923,27672,33421,39170
+191,44022,Fri,21939,67914,82827,Ashaadha,Krishna,Panchami,P.Bhadrapada,Saubhagya,Mithuna,Mina,Punarvasu,Siddha,Dwanksha,39180,44927,56421,62167,27686,33433
+192,44023,Sat,21956,67914,85029,Ashaadha,Krishna,Shashthi,U.Bhadrapada,Shobhana,Mithuna,Mina,Punarvasu,Siddha,Dhumra,33445,39190,50680,56424,21956,27700
+193,44024,Sun,21972,67912,0,Ashaadha,Krishna,Saptami,U.Bhadrapada,Atiganda,Mithuna,Mina,Punarvasu,Amrita,Sthira,62170,67912,44942,50685,56427,62170
+194,44025,Mon,21988,67910,791,Ashaadha,Krishna,Ashtami,Revati,Sukarman,Mithuna,Mesha,Punarvasu,Siddha,Mathanga,27728,33469,39209,44949,50689,56430
+195,44026,Tue,22004,67907,2980,Ashaadha,Krishna,Navami,Ashvini,Dhriti,Mithuna,Mesha,Punarvasu,Siddha,Amrutha,56431,62169,33480,39218,44956,50694
+196,44027,Wed,22020,67903,5258,Ashaadha,Krishna,Dashami,Bharani,Shuula,Mithuna,Vrishabha,Punarvasu,Siddha,Kala,44962,50697,27756,33491,39226,44962
+197,44028,Thu,22036,67899,7691,Ashaadha,Krishna,Ekadashi,Krittika,Ganda,Karka,Vrishabha,Punarvasu,Marana,Lamba,50700,56433,22036,27769,33502,39234
+198,44029,Fri,22052,67893,10336,Ashaadha,Krishna,Dvadashi,Rohini,Vriddhi,Karka,Vrishabha,Punarvasu,Marana,Mitra,39242,44972,56433,62163,27782,33512
+199,44030,Sat,22067,67887,13235,Ashaadha,Krishna,Trayodashi,Mrigashirsha,Dhruva,Karka,Mithuna,Punarvasu,Siddha,Vajra,33522,39249,50704,56432,22067,27795
+200,44031,Sun,22082,67879,16401,Ashaadha,Krishna,Chaturdashi,Aardra,Vyaghata,Karka,Mithuna,Punarvasu,Siddha,Dwanksha,62155,67879,44981,50706,56430,62155
+201,44032,Mon,22097,67871,19796,Ashaadha,Krishna,Amavasya,Punarvasu,Harshana,Karka,Karka,Pushya,Amrita,Dhumra,27819,33541,39263,44984,50706,56428
+202,44033,Tue,22112,67862,23339,Shravana,Shukla,Prathama,Pushya,Vajra,Karka,Karka,Pushya,Siddha,Vardaman,56425,62144,33550,39269,44987,50706
+203,44034,Wed,22127,67852,26924,Shravana,Shukla,Dvitiiya,Aslesha,Siddhi,Karka,Simha,Pushya,Siddha,Rakshasa,44990,50705,27843,33558,39274,44990
+204,44035,Thu,22141,67842,30467,Shravana,Shukla,Tritiiya,Magha,Vyatipata,Karka,Simha,Pushya,Amrita,Musala,50704,56416,22141,27854,33566,39279
+205,44036,Fri,22155,67830,33924,Shravana,Shukla,Chaturthi,P.Phalguni,Variyan,Karka,Kanya,Pushya,Siddha,Siddha,39283,44992,56411,62120,27864,33574
+206,44037,Sat,22169,67817,37298,Shravana,Shukla,Panchami,U.Phalguni,Shiva,Karka,Kanya,Pushya,Marana,Utpatha,33581,39287,50699,56405,22169,27875
+207,44038,Sun,22182,67804,40625,Shravana,Shukla,Shashthi,Hasta,Siddha,Karka,Tula,Pushya,Amrita,Manasa,62101,67804,44993,50696,56398,62101
+208,44039,Mon,22195,67789,43954,Shravana,Shukla,Saptami,Chitra,Sadhya,Karka,Tula,Pushya,Marana,Mudgara,27894,33594,39293,44992,50692,56391
+209,44040,Tue,22208,67774,47332,Shravana,Shukla,Navami,Svaati,Shubha,Karka,Tula,Pushya,Siddha,Dhawaja,56382,62078,33599,39295,44991,50687
+210,44041,Wed,22220,67758,50787,Shravana,Shukla,Dashami,Vishaakha,Shukla,Karka,Vrishchika,Pushya,Siddha,Dhaatru,44989,50681,27912,33605,39297,44989
+211,44042,Thu,22232,67741,54308,Shravana,Shukla,Ekadashi,Anuraadha,Brahma,Karka,Vrishchika,Pushya,Siddha,Ananda,50675,56364,22232,27921,33609,39298
+212,44043,Fri,22244,67723,57844,Shravana,Shukla,Dvadashi,Jyeshtha,Aindra,Karka,Dhanus,Pushya,Marana,Chara,39298,44983,56353,62038,27929,33613
+213,44044,Sat,22255,67704,61306,Shravana,Shukla,Trayodashi,Mula,Vaidhriti,Karka,Dhanus,Pushya,Siddha,Gadha,33617,39298,50661,56342,22255,27936
+214,44045,Sun,22266,67684,64598,Shravana,Shukla,Chaturdashi,P.shadha,Vishkambha,Karka,Makara,Pushya,Siddha,Subha,62007,67684,44975,50652,56330,62007
+215,44046,Mon,22276,67664,67657,Shravana,Shukla,Purnima,U.shada,Priti,Karka,Makara,Aslesha,Marana,Kala,27950,33623,39297,44970,50643,56317
+216,44047,Tue,22286,67642,70460,Shravana,Krishna,Prathama,Shravana,Saubhagya,Karka,Kumbha,Aslesha,Siddha,Lamba,56303,61973,33625,39295,44964,50634
+217,44048,Wed,22296,67620,73029,Shravana,Krishna,Dvitiiya,Dhanishta,Shobhana,Karka,Kumbha,Aslesha,Marana,Mitra,44958,50624,27961,33627,39293,44958
+218,44049,Thu,22305,67597,75409,Shravana,Krishna,Tritiiya,Shatabhisha,Atiganda,Karka,Kumbha,Aslesha,Marana,Vajra,50613,56274,22305,27967,33628,39290
+219,44050,Fri,22314,67574,77657,Shravana,Krishna,Chaturthi,P.Bhadrapada,Sukarman,Karka,Mina,Aslesha,Siddha,Dwanksha,39286,44944,56259,61916,27972,33629
+220,44051,Sat,22323,67549,79835,Shravana,Krishna,Panchami,U.Bhadrapada,Dhriti,Karka,Mina,Aslesha,Siddha,Dhumra,33629,39283,50589,56243,22323,27976
+221,44052,Sun,22331,67524,82004,Shravana,Krishna,Shashthi,Revati,Dhriti,Karka,Mesha,Aslesha,Amrita,Vardaman,61875,67524,44927,50577,56226,61875
+222,44053,Mon,22339,67498,84227,Shravana,Krishna,Shashthi,Ashvini,Shuula,Karka,Mesha,Aslesha,Siddha,Rakshasa,27984,33628,39273,44918,50563,56208
+223,44054,Tue,22346,67471,0,Shravana,Krishna,Saptami,Bharani,Ganda,Karka,Mesha,Aslesha,Siddha,Musala,56190,61831,33627,39268,44909,50549
+224,44055,Wed,22353,67444,166,Shravana,Krishna,Ashtami,Krittika,Vriddhi,Karka,Vrishabha,Aslesha,Amrita,Siddha,44898,50535,27989,33626,39262,44898
+225,44056,Thu,22360,67416,2681,Shravana,Krishna,Navami,Rohini,Dhruva,Karka,Vrishabha,Aslesha,Marana,Utpatha,50520,56152,22360,27992,33624,39256
+226,44057,Fri,22366,67387,5428,Shravana,Krishna,Dashami,Mrigashirsha,Vyaghata,Karka,Mithuna,Aslesha,Siddha,Manasa,39249,44876,56132,61759,27994,33621
+227,44058,Sat,22372,67357,8438,Shravana,Krishna,Ekadashi,Mrigashirsha,Harshana,Karka,Mithuna,Aslesha,Siddha,Vajra,33618,39241,50488,56111,22372,27995
+228,44059,Sun,22378,67327,11710,Shravana,Krishna,Dvadashi,Aardra,Vajra,Simha,Mithuna,Aslesha,Siddha,Dwanksha,61708,67327,44852,50471,56090,61708
+229,44060,Mon,22383,67296,15195,Shravana,Krishna,Trayodashi,Punarvasu,Vyatipata,Simha,Karka,Magha,Amrita,Dhumra,27997,33611,39225,44840,50454,56068
+230,44061,Tue,22388,67265,18802,Shravana,Krishna,Chaturdashi,Aslesha,Variyan,Simha,Karka,Magha,Siddha,Ananda,56046,61655,33607,39217,44826,50436
+231,44062,Wed,22392,67233,22433,Shravana,Krishna,Amavasya,Magha,Parigha,Simha,Simha,Magha,Siddha,Chara,44813,50418,27997,33602,39207,44813
+232,44063,Thu,22396,67200,26017,Bhadrapada,Shukla,Dvitiiya,P.Phalguni,Shiva,Simha,Simha,Magha,Siddha,Gadha,50399,55999,22396,27997,33597,39198
+233,44064,Fri,22400,67167,29526,Bhadrapada,Shukla,Tritiiya,U.Phalguni,Siddha,Simha,Kanya,Magha,Siddha,Subha,39188,44784,55975,61571,27996,33592
+234,44065,Sat,22404,67133,32972,Bhadrapada,Shukla,Chaturthi,Hasta,Sadhya,Simha,Kanya,Magha,Marana,Mrutyu,33586,39177,50359,55951,22404,27995
+235,44066,Sun,22407,67098,36391,Bhadrapada,Shukla,Panchami,Chitra,Shubha,Simha,Tula,Magha,Siddha,Padma,61512,67098,44753,50339,55926,61512
+236,44067,Mon,22410,67063,39823,Bhadrapada,Shukla,Shashthi,Svaati,Brahma,Simha,Tula,Magha,Amrita,Chatra,27991,33573,39155,44737,50318,55900
+237,44068,Tue,22412,67028,43298,Bhadrapada,Shukla,Saptami,Vishaakha,Aindra,Simha,Vrishchika,Magha,Marana,Sreevatsa,55874,61451,33566,39143,44720,50297
+238,44069,Wed,22414,66992,46814,Bhadrapada,Shukla,Ashtami,Anuraadha,Vaidhriti,Simha,Vrishchika,Magha,Siddha,Sowmya,44703,50275,27987,33559,39131,44703
+239,44070,Thu,22416,66955,50334,Bhadrapada,Shukla,Navami,Jyeshtha,Vishkambha,Simha,Dhanus,Magha,Marana,Kaldanda,50253,55820,22416,27984,33551,39118
+240,44071,Fri,22418,66918,53784,Bhadrapada,Shukla,Dashami,Mula,Priti,Simha,Dhanus,Magha,Amrita,Sthira,39105,44668,55793,61356,27980,33543
+241,44072,Sat,22419,66881,57085,Bhadrapada,Shukla,Ekadashi,P.shadha,Aayushman,Simha,Makara,Magha,Siddha,Mathanga,33534,39092,50208,55765,22419,27977
+242,44073,Sun,22420,66843,60172,Bhadrapada,Shukla,Dvadashi,U.shada,Saubhagya,Simha,Makara,Magha,Amrita,Amrutha,61290,66843,44631,50184,55737,61290
+243,44074,Mon,22421,66804,63019,Bhadrapada,Shukla,Trayodashi,Shravana,Shobhana,Simha,Makara,P.Phalguni,Amrita,Siddha,27969,33517,39065,44613,50161,55709
+244,44075,Tue,22421,66766,65637,Bhadrapada,Shukla,Chaturdashi,Dhanishta,Atiganda,Simha,Kumbha,P.Phalguni,Siddha,Utpatha,55680,61223,33507,39050,44593,50137
+245,44076,Wed,22421,66727,68061,Bhadrapada,Shukla,Purnima,Shatabhisha,Sukarman,Simha,Kumbha,P.Phalguni,Siddha,Manasa,44574,50112,27960,33498,39036,44574
+246,44077,Thu,22421,66687,70342,Bhadrapada,Krishna,Prathama,P.Bhadrapada,Dhriti,Simha,Mina,P.Phalguni,Siddha,Mudgara,50088,55621,22421,27955,33488,39021
+247,44078,Fri,22421,66648,72536,Bhadrapada,Krishna,Dvitiiya,U.Bhadrapada,Shuula,Simha,Mina,P.Phalguni,Siddha,Dhawaja,39006,44534,55591,61119,27950,33478
+248,44079,Sat,22421,66608,74699,Bhadrapada,Krishna,Tritiiya,Revati,Ganda,Simha,Mina,P.Phalguni,Marana,Dhaatru,33468,38991,50038,55561,22421,27944
+249,44080,Sun,22421,66567,76889,Bhadrapada,Krishna,Chaturthi,Ashvini,Vriddhi,Simha,Mesha,P.Phalguni,Siddha,Ananda,61049,66567,44494,50012,55531,61049
+250,44081,Mon,22420,66527,79163,Bhadrapada,Krishna,Panchami,Bharani,Dhruva,Simha,Mesha,P.Phalguni,Siddha,Chara,27933,33447,38960,44473,49987,55500
+251,44082,Tue,22419,66486,81577,Bhadrapada,Krishna,Shashthi,Bharani,Vyaghata,Simha,Vrishabha,P.Phalguni,Siddha,Musala,55469,60978,33436,38944,44453,49961
+252,44083,Wed,22418,66445,84183,Bhadrapada,Krishna,Saptami,Krittika,Harshana,Simha,Vrishabha,P.Phalguni,Amrita,Siddha,44432,49935,27922,33425,38929,44432
+253,44084,Thu,22418,66404,0,Bhadrapada,Krishna,Ashtami,Rohini,Vajra,Simha,Vrishabha,P.Phalguni,Marana,Utpatha,49909,55408,22418,27916,33414,38913
+254,44085,Fri,22417,66363,623,Bhadrapada,Krishna,Navami,Mrigashirsha,Siddhi,Simha,Mithuna,P.Phalguni,Siddha,Manasa,38896,44390,55376,60870,27910,33403
+255,44086,Sat,22416,66322,3714,Bhadrapada,Krishna,Dashami,Aardra,Vyatipata,Simha,Mithuna,P.Phalguni,Siddha,Mudgara,33392,38880,49857,55345,22416,27904
+256,44087,Sun,22415,66280,7037,Bhadrapada,Krishna,Ekadashi,Punarvasu,Variyan,Simha,Karka,P.Phalguni,Siddha,Dhawaja,60797,66280,44347,49831,55314,60797
+257,44088,Mon,22413,66239,10535,Bhadrapada,Krishna,Dvadashi,Pushya,Parigha,Simha,Karka,U.Phalguni,Siddha,Dhaatru,27892,33370,38848,44326,49804,55282
+258,44089,Tue,22412,66197,14127,Bhadrapada,Krishna,Trayodashi,Aslesha,Shiva,Simha,Simha,U.Phalguni,Siddha,Ananda,55251,60724,33359,38832,44305,49778
+259,44090,Wed,22411,66156,17738,Bhadrapada,Krishna,Chaturdashi,Magha,Siddha,Kanya,Simha,U.Phalguni,Siddha,Chara,44283,49751,27879,33347,38815,44283
+260,44091,Thu,22410,66114,21322,Bhadrapada,Krishna,Amavasya,P.Phalguni,Shubha,Kanya,Kanya,U.Phalguni,Siddha,Gadha,49725,55188,22410,27873,33336,38799
+261,44092,Fri,22409,66072,24870,Adhika Aashvayuja,Shukla,Prathama,U.Phalguni,Shukla,Kanya,Kanya,U.Phalguni,Siddha,Subha,38783,44241,55156,60614,27867,33325
+262,44093,Sat,22408,66031,28403,Adhika Aashvayuja,Shukla,Dvitiiya,Chitra,Brahma,Kanya,Tula,U.Phalguni,Marana,Kala,33314,38767,49672,55125,22408,27861
+263,44094,Sun,22407,65989,31951,Adhika Aashvayuja,Shukla,Chaturthi,Svaati,Aindra,Kanya,Tula,U.Phalguni,Siddha,Lamba,60541,65989,44198,49646,55094,60541
+264,44095,Mon,22406,65947,35538,Adhika Aashvayuja,Shukla,Panchami,Vishaakha,Vaidhriti,Kanya,Vrishchika,U.Phalguni,Marana,Mitra,27849,33292,38734,44177,49620,55062
+265,44096,Tue,22406,65906,39161,Adhika Aashvayuja,Shukla,Shashthi,Anuraadha,Priti,Kanya,Vrishchika,U.Phalguni,Siddha,Vajra,55031,60468,33281,38718,44156,49593
+266,44097,Wed,22405,65865,42777,Adhika Aashvayuja,Shukla,Saptami,Jyeshtha,Aayushman,Kanya,Dhanus,U.Phalguni,Siddha,Dwanksha,44135,49567,27837,33270,38702,44135
+267,44098,Thu,22404,65823,46315,Adhika Aashvayuja,Shukla,Ashtami,Mula,Saubhagya,Kanya,Dhanus,U.Phalguni,Siddha,Dhumra,49541,54969,22404,27832,33259,38686
+268,44099,Fri,22404,65782,49690,Adhika Aashvayuja,Shukla,Navami,P.shadha,Shobhana,Kanya,Dhanus,U.Phalguni,Marana,Vardaman,38671,44093,54938,60360,27826,33248
+269,44100,Sat,22404,65741,52838,Adhika Aashvayuja,Shukla,Dashami,U.shada,Atiganda,Kanya,Makara,U.Phalguni,Siddha,Rakshasa,33238,38655,49490,54907,22404,27821
+270,44101,Sun,22403,65701,55733,Adhika Aashvayuja,Shukla,Ekadashi,Shravana,Sukarman,Kanya,Makara,Hasta,Amrita,Gadha,60289,65701,44052,49464,54876,60289
+271,44102,Mon,22403,65660,58386,Adhika Aashvayuja,Shukla,Dvadashi,Dhanishta,Dhriti,Kanya,Kumbha,Hasta,Siddha,Subha,27811,33218,38625,44032,49439,54846
+272,44103,Tue,22404,65620,60835,Adhika Aashvayuja,Shukla,Trayodashi,Shatabhisha,Shuula,Kanya,Kumbha,Hasta,Marana,Mrutyu,54816,60218,33208,38610,44012,49414
+273,44104,Wed,22404,65580,63132,Adhika Aashvayuja,Shukla,Chaturdashi,P.Bhadrapada,Ganda,Kanya,Mina,Hasta,Amrita,Padma,43992,49389,27801,33198,38595,43992
+274,44105,Thu,22405,65540,65331,Adhika Aashvayuja,Shukla,Purnima,U.Bhadrapada,Vriddhi,Kanya,Mina,Hasta,Siddha,Chatra,49364,54756,22405,27797,33189,38581
+275,44106,Fri,22406,65501,67488,Adhika Aashvayuja,Krishna,Prathama,Revati,Dhruva,Kanya,Mina,Hasta,Amrita,Sreevatsa,38567,43953,54727,60114,27793,33180
+276,44107,Sat,22407,65462,69657,Adhika Aashvayuja,Krishna,Dvitiiya,Revati,Vyaghata,Kanya,Mesha,Hasta,Marana,Dhaatru,33171,38553,49316,54698,22407,27789
+277,44108,Sun,22409,65423,71892,Adhika Aashvayuja,Krishna,Dvitiiya,Ashvini,Harshana,Kanya,Mesha,Hasta,Siddha,Ananda,60046,65423,43916,49293,54670,60046
+278,44109,Mon,22411,65385,74244,Adhika Aashvayuja,Krishna,Tritiiya,Bharani,Vajra,Kanya,Vrishabha,Hasta,Siddha,Chara,27783,33154,38526,43898,49270,54641
+279,44110,Tue,22413,65347,76760,Adhika Aashvayuja,Krishna,Chaturthi,Krittika,Siddhi,Kanya,Vrishabha,Hasta,Siddha,Gadha,54614,59980,33147,38513,43880,49247
+280,44111,Wed,22416,65310,79479,Adhika Aashvayuja,Krishna,Panchami,Rohini,Vyatipata,Kanya,Vrishabha,Hasta,Siddha,Subha,43863,49225,27777,33139,38501,43863
+281,44112,Thu,22419,65273,82420,Adhika Aashvayuja,Krishna,Shashthi,Mrigashirsha,Variyan,Kanya,Mithuna,Hasta,Marana,Mrutyu,49203,54559,22419,27775,33132,38489
+282,44113,Fri,22422,65237,85576,Adhika Aashvayuja,Krishna,Saptami,Aardra,Parigha,Kanya,Mithuna,Hasta,Siddha,Padma,38478,43829,54533,59885,27774,33126
+283,44114,Sat,22426,65201,0,Adhika Aashvayuja,Krishna,Ashtami,Punarvasu,Shiva,Kanya,Karka,Hasta,Siddha,Chatra,33120,38467,49160,54507,22426,27773
+284,44115,Sun,22430,65166,2508,Adhika Aashvayuja,Krishna,Navami,Pushya,Siddha,Kanya,Karka,Chitra,Siddha,Sreevatsa,59824,65166,43798,49140,54482,59824
+285,44116,Mon,22435,65131,5958,Adhika Aashvayuja,Krishna,Dashami,Aslesha,Sadhya,Kanya,Karka,Chitra,Siddha,Sowmya,27772,33109,38446,43783,49120,54457
+286,44117,Tue,22440,65097,9462,Adhika Aashvayuja,Krishna,Ekadashi,Magha,Shubha,Kanya,Simha,Chitra,Siddha,Kaldanda,54433,59765,33104,38436,43769,49101
+287,44118,Wed,22446,65063,12979,Adhika Aashvayuja,Krishna,Dvadashi,P.Phalguni,Shukla,Kanya,Simha,Chitra,Amrita,Sthira,43755,49082,27773,33100,38427,43755
+288,44119,Thu,22452,65031,16498,Adhika Aashvayuja,Krishna,Trayodashi,U.Phalguni,Brahma,Kanya,Kanya,Chitra,Marana,Mathanga,49064,54386,22452,27774,33097,38419
+289,44120,Fri,22459,64998,20034,Adhika Aashvayuja,Krishna,Amavasya,Hasta,Vaidhriti,Kanya,Kanya,Chitra,Amrita,Amrutha,38411,43729,54363,59681,27776,33094
+290,44121,Sat,22466,64967,23618,Nija Aashvayuja,Shukla,Prathama,Chitra,Vishkambha,Tula,Tula,Chitra,Marana,Kala,33091,38404,49029,54342,22466,27779
+291,44122,Sun,22474,64936,27278,Nija Aashvayuja,Shukla,Dvitiiya,Svaati,Priti,Tula,Tula,Chitra,Siddha,Lamba,59628,64936,43705,49013,54320,59628
+292,44123,Mon,22482,64906,31017,Nija Aashvayuja,Shukla,Tritiiya,Anuraadha,Aayushman,Tula,Vrishchika,Chitra,Siddha,Manasa,27785,33088,38391,43694,48997,54300
+293,44124,Tue,22491,64876,34792,Nija Aashvayuja,Shukla,Chaturthi,Jyeshtha,Saubhagya,Tula,Vrishchika,Chitra,Siddha,Mudgara,54280,59578,33087,38385,43683,48982
+294,44125,Wed,22500,64848,38517,Nija Aashvayuja,Shukla,Panchami,Mula,Shobhana,Tula,Dhanus,Chitra,Marana,Dhawaja,43674,48967,27793,33087,38380,43674
+295,44126,Thu,22510,64820,42081,Nija Aashvayuja,Shukla,Shashthi,P.shadha,Sukarman,Tula,Dhanus,Chitra,Siddha,Dhaatru,48954,54242,22510,27798,33087,38376
+296,44127,Fri,22520,64793,45396,Nija Aashvayuja,Shukla,Saptami,U.shada,Dhriti,Tula,Makara,Chitra,Siddha,Ananda,38372,43656,54225,59509,27804,33088
+297,44128,Sat,22531,64766,48419,Nija Aashvayuja,Shukla,Ashtami,Shravana,Shuula,Tula,Makara,Svaati,Siddha,Sthira,33090,38369,48928,54208,22531,27810
+298,44129,Sun,22542,64741,51162,Nija Aashvayuja,Shukla,Navami,Dhanishta,Ganda,Tula,Kumbha,Svaati,Marana,Mathanga,59466,64741,43642,48916,54191,59466
+299,44130,Mon,22554,64716,53666,Nija Aashvayuja,Shukla,Dashami,Shatabhisha,Vriddhi,Tula,Kumbha,Svaati,Siddha,Amrutha,27825,33095,38365,43635,48906,54176
+300,44131,Tue,22567,64692,55989,Nija Aashvayuja,Shukla,Ekadashi,Shatabhisha,Dhruva,Tula,Kumbha,Svaati,Marana,Mrutyu,54161,59427,33098,38364,43630,48895
+301,44132,Wed,22580,64670,58195,Nija Aashvayuja,Shukla,Dvadashi,P.Bhadrapada,Vyaghata,Tula,Mina,Svaati,Amrita,Padma,43625,48886,27841,33103,38364,43625
+302,44133,Thu,22594,64648,60343,Nija Aashvayuja,Shukla,Trayodashi,U.Bhadrapada,Harshana,Tula,Mina,Svaati,Siddha,Chatra,48878,54134,22594,27851,33108,38364
+303,44134,Fri,22609,64626,62492,Nija Aashvayuja,Shukla,Chaturdashi,Revati,Vajra,Tula,Mesha,Svaati,Amrita,Sreevatsa,38365,43618,54122,59374,27861,33113
+304,44135,Sat,22624,64606,64695,Nija Aashvayuja,Shukla,Purnima,Ashvini,Siddhi,Tula,Mesha,Svaati,Siddha,Sowmya,33119,38367,48863,54111,22624,27872
+305,44136,Sun,22639,64587,67006,Nija Aashvayuja,Krishna,Prathama,Bharani,Vyatipata,Tula,Mesha,Svaati,Marana,Kaldanda,59344,64587,43613,48857,54100,59344
+306,44137,Mon,22656,64569,69470,Nija Aashvayuja,Krishna,Dvitiiya,Krittika,Variyan,Tula,Vrishabha,Svaati,Marana,Sthira,27895,33134,38373,43612,48851,54091
+307,44138,Tue,22673,64552,72124,Nija Aashvayuja,Krishna,Tritiiya,Rohini,Parigha,Tula,Vrishabha,Svaati,Amrita,Mathanga,54082,59317,33143,38377,43612,48847
+308,44139,Wed,22690,64535,74986,Nija Aashvayuja,Krishna,Chaturthi,Mrigashirsha,Parigha,Tula,Mithuna,Svaati,Siddha,Amrutha,43613,48844,27921,33152,38382,43613
+309,44140,Thu,22709,64520,78048,Nija Aashvayuja,Krishna,Panchami,Aardra,Shiva,Tula,Mithuna,Svaati,Marana,Kala,48841,54067,22709,27935,33162,38388
+310,44141,Fri,22728,64506,81271,Nija Aashvayuja,Krishna,Panchami,Aardra,Siddha,Tula,Mithuna,Svaati,Siddha,Padma,38395,43617,54061,59284,27950,33172
+311,44142,Sat,22747,64493,84600,Nija Aashvayuja,Krishna,Shashthi,Punarvasu,Sadhya,Tula,Karka,Vishaakha,Siddha,Chatra,33184,38402,48838,54057,22747,27965
+312,44143,Sun,22767,64481,0,Nija Aashvayuja,Krishna,Saptami,Pushya,Shukla,Tula,Karka,Vishaakha,Siddha,Sreevatsa,59267,64481,43624,48838,54053,59267
+313,44144,Mon,22788,64470,1575,Nija Aashvayuja,Krishna,Ashtami,Aslesha,Brahma,Tula,Simha,Vishaakha,Siddha,Sowmya,27999,33209,38419,43629,48839,54050
+314,44145,Tue,22810,64460,4958,Nija Aashvayuja,Krishna,Dashami,Magha,Aindra,Tula,Simha,Vishaakha,Siddha,Kaldanda,54048,59254,33222,38429,43635,48841
+315,44146,Wed,22832,64452,8340,Nija Aashvayuja,Krishna,Ekadashi,P.Phalguni,Vaidhriti,Tula,Kanya,Vishaakha,Amrita,Sthira,43642,48844,28034,33237,38439,43642
+316,44147,Thu,22855,64444,11743,Nija Aashvayuja,Krishna,Dvadashi,Hasta,Vishkambha,Tula,Kanya,Vishaakha,Siddha,Rakshasa,48848,54047,22855,28053,33252,38451
+317,44148,Fri,22878,64437,15206,Nija Aashvayuja,Krishna,Trayodashi,Chitra,Priti,Tula,Tula,Vishaakha,Siddha,Musala,38463,43658,54048,59242,28073,33268
+318,44149,Sat,22902,64432,18775,Nija Aashvayuja,Krishna,Chaturdashi,Svaati,Aayushman,Tula,Tula,Vishaakha,Amrita,Siddha,33285,38476,48858,54050,22902,28093
+319,44150,Sun,22927,64428,22479,Nija Aashvayuja,Krishna,Amavasya,Vishaakha,Shobhana,Tula,Vrishchika,Vishaakha,Marana,Utpatha,59240,64428,43677,48865,54053,59240
+320,44151,Mon,22952,64425,26304,Kartika,Shukla,Prathama,Anuraadha,Atiganda,Vrishchika,Vrishchika,Vishaakha,Siddha,Manasa,28136,33320,38504,43688,48872,54056
+321,44152,Tue,22978,64423,30177,Kartika,Shukla,Tritiiya,Jyeshtha,Sukarman,Vrishchika,Dhanus,Vishaakha,Siddha,Mudgara,54061,59242,33339,38520,43700,48881
+322,44153,Wed,23004,64422,33967,Kartika,Shukla,Chaturthi,Mula,Dhriti,Vrishchika,Dhanus,Vishaakha,Marana,Dhawaja,43713,48890,28181,33358,38536,43713
+323,44154,Thu,23031,64422,37538,Kartika,Shukla,Panchami,P.shadha,Shuula,Vrishchika,Makara,Vishaakha,Siddha,Dhaatru,48900,54074,23031,28205,33379,38552
+324,44155,Fri,23058,64423,40799,Kartika,Shukla,Shashthi,U.shada,Ganda,Vrishchika,Makara,Anuraadha,Siddha,Kaldanda,38570,43741,54082,59252,28229,33399
+325,44156,Sat,23086,64426,43732,Kartika,Shukla,Saptami,Shravana,Vriddhi,Vrishchika,Kumbha,Anuraadha,Siddha,Sthira,33421,38588,48923,54091,23086,28253
+326,44157,Sun,23114,64429,46370,Kartika,Shukla,Ashtami,Dhanishta,Vyaghata,Vrishchika,Kumbha,Anuraadha,Marana,Mathanga,59265,64429,43772,48936,54100,59265
+327,44158,Mon,23143,64434,48778,Kartika,Shukla,Navami,Shatabhisha,Harshana,Vrishchika,Kumbha,Anuraadha,Siddha,Amrutha,28304,33465,38627,43788,48950,54111
+328,44159,Tue,23172,64439,51026,Kartika,Shukla,Dashami,P.Bhadrapada,Vajra,Vrishchika,Mina,Anuraadha,Marana,Kala,54122,59281,33489,38647,43806,48964
+329,44160,Wed,23201,64446,53184,Kartika,Shukla,Ekadashi,U.Bhadrapada,Vajra,Vrishchika,Mina,Anuraadha,Siddha,Lamba,43824,48979,28357,33513,38668,43824
+330,44161,Thu,23231,64454,55318,Kartika,Shukla,Dvadashi,Revati,Siddhi,Vrishchika,Mesha,Anuraadha,Siddha,Mitra,48995,54148,23231,28384,33537,38690
+331,44162,Fri,23261,64463,57490,Kartika,Shukla,Dvadashi,Ashvini,Vyatipata,Vrishchika,Mesha,Anuraadha,Amrita,Vajra,38712,43862,54163,59313,28412,33562
+332,44163,Sat,23292,64473,59756,Kartika,Shukla,Trayodashi,Bharani,Variyan,Vrishchika,Mesha,Anuraadha,Siddha,Dwanksha,33587,38735,49030,54178,23292,28440
+333,44164,Sun,23323,64484,62171,Kartika,Shukla,Chaturdashi,Krittika,Parigha,Vrishchika,Vrishabha,Anuraadha,Siddha,Dhumra,59339,64484,43903,49049,54194,59339
+334,44165,Mon,23354,64496,64776,Kartika,Shukla,Purnima,Rohini,Shiva,Vrishchika,Vrishabha,Anuraadha,Amrita,Vardaman,28497,33640,38782,43925,49068,54211
+335,44166,Tue,23386,64509,67596,Kartika,Krishna,Prathama,Rohini,Siddha,Vrishchika,Mithuna,Anuraadha,Amrita,Mathanga,54228,59369,33667,38807,43947,49088
+336,44167,Wed,23417,64524,70625,Kartika,Krishna,Dvitiiya,Mrigashirsha,Sadhya,Vrishchika,Mithuna,Anuraadha,Siddha,Amrutha,43970,49109,28556,33694,38832,43970
+337,44168,Thu,23449,64539,73824,Kartika,Krishna,Tritiiya,Aardra,Shubha,Vrishchika,Mithuna,Jyeshtha,Marana,Kala,49130,54266,23449,28585,33722,38858
+338,44169,Fri,23481,64555,77127,Kartika,Krishna,Chaturthi,Punarvasu,Shukla,Vrishchika,Karka,Jyeshtha,Siddha,Lamba,38884,44018,54287,59421,28616,33750
+339,44170,Sat,23514,64572,80462,Kartika,Krishna,Panchami,Pushya,Brahma,Vrishchika,Karka,Jyeshtha,Siddha,Mitra,33778,38911,49175,54308,23514,28646
+340,44171,Sun,23546,64591,83780,Kartika,Krishna,Shashthi,Aslesha,Aindra,Vrishchika,Simha,Jyeshtha,Siddha,Vajra,59460,64591,44068,49199,54330,59460
+341,44172,Mon,23579,64610,0,Kartika,Krishna,Saptami,Magha,Vishkambha,Vrishchika,Simha,Jyeshtha,Marana,Dwanksha,28708,33836,38965,44094,49223,54352
+342,44173,Tue,23611,64630,663,Kartika,Krishna,Ashtami,P.Phalguni,Priti,Vrishchika,Kanya,Jyeshtha,Siddha,Dhumra,54375,59503,33866,38993,44121,49248
+343,44174,Wed,23644,64651,3928,Kartika,Krishna,Navami,U.Phalguni,Aayushman,Vrishchika,Kanya,Jyeshtha,Amrita,Vardaman,44147,49273,28770,33896,39022,44147
+344,44175,Thu,23677,64673,7220,Kartika,Krishna,Dashami,Hasta,Saubhagya,Vrishchika,Tula,Jyeshtha,Siddha,Rakshasa,49299,54424,23677,28801,33926,39050
+345,44176,Fri,23709,64696,10595,Kartika,Krishna,Ekadashi,Chitra,Shobhana,Vrishchika,Tula,Jyeshtha,Siddha,Musala,39079,44203,54449,59572,28833,33956
+346,44177,Sat,23742,64719,14107,Kartika,Krishna,Dvadashi,Vishaakha,Atiganda,Vrishchika,Vrishchika,Jyeshtha,Siddha,Subha,33986,39108,49353,54475,23742,28864
+347,44178,Sun,23774,64744,17784,Kartika,Krishna,Chaturdashi,Anuraadha,Sukarman,Vrishchika,Vrishchika,Jyeshtha,Marana,Mrutyu,59623,64744,44259,49380,54502,59623
+348,44179,Mon,23807,64769,21602,Kartika,Krishna,Amavasya,Jyeshtha,Shuula,Vrishchika,Dhanus,Jyeshtha,Siddha,Padma,28927,34047,39168,44288,49408,54529
+349,44180,Tue,23839,64795,25467,Margasira,Shukla,Prathama,Mula,Ganda,Dhanus,Dhanus,Jyeshtha,Amrita,Chatra,54556,59676,34078,39197,44317,49437
+350,44181,Wed,23871,64822,29228,Margasira,Shukla,Dvitiiya,P.shadha,Vriddhi,Dhanus,Dhanus,Mula,Amrita,Sreevatsa,44346,49465,28990,34109,39227,44346
+351,44182,Thu,23903,64849,32741,Margasira,Shukla,Tritiiya,U.shada,Dhruva,Dhanus,Makara,Mula,Siddha,Sowmya,49494,54613,23903,29021,34139,39258
+352,44183,Fri,23934,64877,35926,Margasira,Shukla,Chaturthi,Shravana,Vyaghata,Dhanus,Makara,Mula,Marana,Dhumra,39288,44406,54641,59759,29052,34170
+353,44184,Sat,23965,64906,38777,Margasira,Shukla,Panchami,Dhanishta,Harshana,Dhanus,Kumbha,Mula,Siddha,Vardaman,34200,39318,49553,54671,23965,29083
+354,44185,Sun,23996,64935,41344,Margasira,Shukla,Shashthi,Shatabhisha,Vajra,Dhanus,Kumbha,Mula,Siddha,Rakshasa,59817,64935,44465,49583,54700,59817
+355,44186,Mon,24026,64965,43696,Margasira,Shukla,Saptami,P.Bhadrapada,Siddhi,Dhanus,Mina,Mula,Marana,Musala,29143,34261,39378,44495,49613,54730
+356,44187,Tue,24056,64995,45910,Margasira,Shukla,Ashtami,U.Bhadrapada,Vyatipata,Dhanus,Mina,Mula,Amrita,Siddha,54760,59877,34290,39408,44525,49643
+357,44188,Wed,24085,65025,48059,Margasira,Shukla,Navami,Revati,Variyan,Dhanus,Mina,Mula,Marana,Utpatha,44555,49673,29203,34320,39438,44555
+358,44189,Thu,24114,65056,50211,Margasira,Shukla,Dashami,Ashvini,Parigha,Dhanus,Mesha,Mula,Amrita,Manasa,49703,54821,24114,29232,34349,39467
+359,44190,Fri,24142,65088,52431,Margasira,Shukla,Ekadashi,Ashvini,Shiva,Dhanus,Mesha,Mula,Amrita,Vajra,39497,44615,54851,59970,29260,34379
+360,44191,Sat,24170,65120,54780,Margasira,Shukla,Dvadashi,Bharani,Siddha,Dhanus,Vrishabha,Mula,Siddha,Dwanksha,34407,39526,49763,54882,24170,29288
+361,44192,Sun,24197,65152,57312,Margasira,Shukla,Trayodashi,Krittika,Sadhya,Dhanus,Vrishabha,Mula,Siddha,Dhumra,60032,65152,44674,49794,54913,60032
+362,44193,Mon,24223,65184,60065,Margasira,Shukla,Chaturdashi,Rohini,Shubha,Dhanus,Vrishabha,Mula,Amrita,Vardaman,29343,34463,39584,44704,49824,54944
+363,44194,Tue,24249,65217,63051,Margasira,Shukla,Chaturdashi,Mrigashirsha,Shukla,Dhanus,Mithuna,P.shadha,Siddha,Rakshasa,54975,60096,34491,39612,44733,49854
+364,44195,Wed,24274,65250,66244,Margasira,Shukla,Purnima,Aardra,Brahma,Dhanus,Mithuna,P.shadha,Siddha,Musala,44762,49884,29396,34518,39640,44762
+365,44196,Thu,24298,65283,69577,Margasira,Krishna,Prathama,Punarvasu,Aindra,Dhanus,Karka,P.shadha,Amrita,Siddha,49914,55037,24298,29421,34544,39668
